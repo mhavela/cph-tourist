@@ -24,6 +24,7 @@ GPS coordinates: 55°40'49"N 12°35'19"E (In GoogleMaps search for: 55.6802, 12.
 
 ### The Little Mermaid
 The Little Mermaid statue is one of Copenhagen's most famous landmarks. It is inspired by Hans Christian Andersen's fairy tale and depicts a mermaid sitting on a rock by the waterside. The statue is a symbol of the city and attracts millions of visitors each year.  
+Some people find the statue underwhelming due to its small size, but it remains a popular tourist attraction and a must-see for those visiting Copenhagen. And if you anyhow decide to visit the statue, you might as well strawl on "Kastellet" (The Citadel) which is a well-preserved fortress located near the Little Mermaid statue. It offers beautiful views of the city and is a great place to take a leisurely walk while exploring the area around the statue.  
 GPS coordinates: 55°41'34"N 12°35'57"E (In GoogleMaps search for: 55.6929, 12.5992)
 
 
