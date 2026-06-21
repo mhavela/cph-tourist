@@ -119,6 +119,19 @@ Webpage: https://www.helgesost.dk/
 
 https://maps.app.goo.gl/D79WJbQ6ZJGTDER18
 
+
+### Holmens Church
+Contains the tetragrammaton on top of at least one of the entrances.
+
+https://maps.app.goo.gl/zJgLfkgWbo1SLcPZA?g_st=ac
+
+
+### Rosenborg Castle
+Contains the tetragrammaton on at least one of the paintings on ground floor.
+
+https://maps.app.goo.gl/zSjDDt7oWgSzv5Yo8?g_st=ac
+
+
 ---
 
 ## Public transportation
