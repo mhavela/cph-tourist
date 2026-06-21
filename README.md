@@ -1,7 +1,14 @@
 # Tourist in Copenhagen
 
-## Various alternatives
+## Fun-facts
+
+Before starting your adventure in Copenhagen, you might enjor seeing the video-postcard from Denmark in "JW Broadcasting—January 2026".
+Browse https://www.jw.org/finder?srcid=share&wtlocale=E&lank=pub-jwb-134_1_VIDEO and fast-forward to **1h 40m 10s**.
+
+
+## Various Copenhagen alternatives
 The following suggestions usually involves a lot of walking, so make sure to wear comfortable shoes and bring a bottle of water. Some of the attractions may have entrance fees, so it's a good idea to check their websites for the latest information on opening hours and ticket prices. Enjoy exploring Copenhagen!
+
 
 ### Round Tower
 Round tower (Rundetårn) is a unique historical site in Copenhagen. Contains tetragrammaton on the front (you will have to look straight up to see it).  
@@ -37,6 +44,13 @@ The King's Garden (Kongens Have) is a beautiful public garden in Copenhagen, off
 Webpage: https://www.parkmuseerne.dk/en/parker/kongens-have
 GPS coordinates: 55°41'07"N 12°34'48"E (In GoogleMaps search for: 55.6853, 12.5800) 
 
+
+### Frederiksberg Gardens
+Frederiksberg Gardens is a picturesque park located in the Frederiksberg district of Copenhagen. It features beautiful landscapes, serene lakes, and charming walking paths. The park is a popular destination for both locals and tourists, offering a peaceful escape from the bustling city. It's a great place to relax, have a picnic, or take a leisurely stroll while enjoying the natural beauty of Copenhagen.  
+Webpage: https://www.visitcopenhagen.com/copenhagen/planning/frederiksberg-garden-gdk412226  
+GPS coordinates: 55°40'33"N 12°31'33"E (In GoogleMaps search for: 55.6758, 12.5258)
+
+
 ### Bastard Café
 Bastard Café is a popular spot in Copenhagen known for its cozy atmosphere and extensive selection of board games. It's a great place to unwind and have fun with friends while enjoying a drink or a snack. The café offers a wide variety of games, making it a perfect destination for both casual gamers and board game enthusiasts.  
 Webpage: https://www.bastardcafe.dk  
@@ -56,17 +70,31 @@ Webpage: https://broensstreetfood.dk/
 Address: Strandgade 95, 1401 København  
 GPS coordinates: 55°40'41"N 12°35'50"E (In GoogleMaps search for: 55.6780, 12.5972)
 
+
+### Reffen Street Food (Refshaleøen)
+Reffen Street Food is a large outdoor food market located on Refshaleøen, an island in Copenhagen. It offers a wide variety of street food from around the world, as well as a vibrant atmosphere with live music and events. Reffen is a great place to enjoy delicious food, soak in the lively atmosphere, and experience the vibrant food culture of Copenhagen. It's a popular destination for both locals and tourists, making it a must-visit for food lovers exploring the city.  
+Webpage: https://reffen.dk/en/  
+Address: Refshaleøen, 1432 København  
+GPS coordinates: 55°41'36"N 12°36'30"E (In GoogleMaps search for: 55.6933, 12.6083)
+
+
 ### Tårnet in Chrstiansborg Palace
 Tårnet, located in Christiansborg Palace, offers panoramic views of Copenhagen. Visitors can climb to the top of the tower to enjoy breathtaking views of the city skyline, including landmarks such as the Little Mermaid statue, the Round Tower, and the canals. It's a great spot for photography and taking in the beauty of Copenhagen from above.
 Free of charge entrance. You will have to pass security check to access the tower, so please bring a valid ID with you.  
 Webpage: https://www.thedanishparliament.dk/the-tower   
 GPS coordinates: 55°40'34"N 12°34'49"E (In GoogleMaps search for: 55.6761, 12.5803)
 
+
 ### Jægersborggade
 Jægersborggade is a trendy street in the Nørrebro neighborhood of Copenhagen, known for its vibrant atmosphere and eclectic mix of shops, cafés, and restaurants. It's a great place to explore local culture, enjoy delicious food, and discover unique boutiques. The street is popular among both locals and tourists, making it a lively destination for those looking to experience the authentic vibe of Copenhagen.  
 GPS coordinates: 55°41'34"N 12°32'38"E (In GoogleMaps search for: 55.6928, 12.5439)
 
-### A beer at Christianshavns Kanal (cheaper alternative than Nyhavn)
+
+### Nyhavn Canal
+Nyhavn is a picturesque waterfront district in Copenhagen, known for its colorful buildings, lively atmosphere, and historic charm. It's a popular destination for both locals and tourists, offering a variety of restaurants, bars, and cafés where you can enjoy a meal or a drink while taking in the beautiful surroundings. Nyhavn is also a great place to take a stroll along the canal, admire the historic ships, and soak in the vibrant atmosphere of Copenhagen.  
+GPS coordinates: 55°40'49"N 12°35'19"E (In GoogleMaps search for: 55.6802, 12.5886)
+
+### Christianshavns Canal (cheaper beer than at Nyhavn)
 Christianshavns Kanal is a picturesque canal in the Christianshavn neighborhood of Copenhagen. It's a great spot to enjoy a beer while taking in the beautiful surroundings. The area offers a more relaxed and less touristy atmosphere compared to Nyhavn, making it a popular choice for locals and visitors alike. You can find several bars and cafés along the canal where you can sit back, enjoy a drink, and soak in the charming ambiance of Copenhagen.  
 GPS coordinates: 55°40'33"N 12°35'34"E (In GoogleMaps search for: 55.6756, 12.5928)
 
