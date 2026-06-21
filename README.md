@@ -2,7 +2,7 @@
 
 ## Fun-facts
 
-Before starting your adventure in Copenhagen, you might enjor seeing the video-postcard from Denmark in "JW Broadcasting—January 2026".
+Before starting your adventure in Copenhagen, you might enjor seeing the video-postcard from Denmark in "JW Broadcasting—January 2026". In the video-postcard, you will see glimpses of some of the attractions mentioned in this guide, such as the Round Tower and the canals of Copenhagen. It's a great way to get a visual introduction to the city and its highlights before exploring it in person.  
 Browse https://www.jw.org/finder?srcid=share&wtlocale=E&lank=pub-jwb-134_1_VIDEO and fast-forward to **1h 40m 10s**.
 
 
